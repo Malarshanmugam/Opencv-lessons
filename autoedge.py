@@ -1,4 +1,3 @@
-#added extra line
 import argparse
 import cv2
 from matplotlib import pyplot as plt
